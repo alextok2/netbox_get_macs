@@ -1,0 +1,4 @@
+Metadata-Version: 2.1
+Name: netbox-get-macs
+Version: 0.1
+Summary: An example NetBox plugin

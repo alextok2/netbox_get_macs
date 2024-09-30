@@ -1,0 +1,8 @@
+README.md
+setup.py
+netbox_get_macs/__init__.py
+netbox_get_macs.egg-info/PKG-INFO
+netbox_get_macs.egg-info/SOURCES.txt
+netbox_get_macs.egg-info/dependency_links.txt
+netbox_get_macs.egg-info/not-zip-safe
+netbox_get_macs.egg-info/top_level.txt
